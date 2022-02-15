@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-UserProviderApplication<microservice-user-provider>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.UserProviderApplication",
+            "projectName": "microservice-user-provider",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-UserConsumerApplication<microservice-user-consumer>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.UserConsumerApplication",
+            "projectName": "microservice-user-consumer",
+            "args": ""
+        }
+    ]
+}

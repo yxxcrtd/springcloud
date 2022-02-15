@@ -66,20 +66,6 @@
 			<version>LATEST</version>
 		</dependency>
 
-		<!-- 监控 -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-actuator</artifactId>
-		</dependency>
-
-		<!-- 热加载 -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-devtools</artifactId>
-			<scope>runtime</scope>
-			<optional>true</optional>
-		</dependency>
-
 		<!-- 简化 Java 代码 -->
 		<dependency>
 			<groupId>org.projectlombok</groupId>

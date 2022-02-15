@@ -1,0 +1,14 @@
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+*.log
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
