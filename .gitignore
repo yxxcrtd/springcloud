@@ -12,3 +12,11 @@ target/
 *.tar
 *.tar.gz
 
+
+# For vscode
+.classpath
+.project
+bin/
+out/
+.settings
+.vscode
