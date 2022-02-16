@@ -13,5 +13,5 @@ eureka:
 
 
 provider:
-    url: http://MICROSERVICE-USER-PROVIDER/api/user/
+    url: http://MICROSERVICE-USER-PROVIDER/api/
 
