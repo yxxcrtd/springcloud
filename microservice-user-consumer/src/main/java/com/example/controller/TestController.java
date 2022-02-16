@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 @RestController
-@RequestMapping("manage/test")
+@RequestMapping("")
 public class TestController {
 
     private Logger logger = LogManager.getLogger(TestController.class);
