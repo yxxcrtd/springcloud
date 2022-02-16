@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @SpringBootApplication
 @EnableEurekaClient
-@EnableDiscoveryClient // 激活Eureka中的DiscoveryClient实现，实现Controller中对服务信息的输出
+@EnableDiscoveryClient
 public class UserProviderApplication {
 
     public static void main(String[] args) {
